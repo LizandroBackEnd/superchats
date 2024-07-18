@@ -5,7 +5,7 @@ from django.conf import settings
  
 API_KEY = 'AIzaSyD2sjuLmZwXdN3DdJR9WRvSIKfFCttry08' 
  
-CHANNEL_ID = '' 
+CHANNEL_ID = 'UC_x5XG1OV2P6uZZ5FSM9Ttw' 
 
 youtube = build('youtube', 'v3', developerKey=API_KEY) 
 
